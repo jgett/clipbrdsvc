@@ -17,4 +17,4 @@ client to interact (sign in, enable, etc.) with it. The service is run as a back
 1. `npm install`
 1. `node .`
 
-This will start a pm2 service. Run `/node_modules/pm2/bin/pm2 status` to view the service status.
+This will start a pm2 service. Run `./node_modules/pm2/bin/pm2 status` to view the service status.
