@@ -12,7 +12,7 @@ run in the background using pm2 or forever.
 
 ### Instructions
 
-0. Nodejs must already be installed
+0. Nodejs must already be installed on your PC and the clipbrd app must be installed on your phone
 1. Clone this repository (git clone https://github.com/jgett/clipbrdsvc/)
 1. cd clipbrdsvc
 1. npm install
